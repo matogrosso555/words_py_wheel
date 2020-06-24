@@ -1,9 +1,9 @@
 # words_py_wheel
 Part of PCAP Python Certification training by Linux Academy. Created an installable Python Package for others to use.
 
-Package name (first version): words-1.0.0-py3-none-any.whl
-Command to install it
-pip3.7 install --user words-1.0.0-py3-none-any.whl
+Package name (first version): words-1.0.0-py3-none-any.whl   
+Command to install it:            
+pip3.7 install --user words-1.0.0-py3-none-any.whl           
 
 Python script using_packages.py is required:   
 oscar@oscarHPdesktop:~/py_scripts$ python3.7 using_packages.py    
